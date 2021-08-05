@@ -33,6 +33,15 @@ body{
     font-family: fantasy;
     
 }
+a:link{
+    color:#ffffff;
+}
+a:visited{
+    color:blueviolet;
+}
+.origami:hover{
+    transform: scale(1.2);
+}
 .body img{
     position:relative;
 }
@@ -45,4 +54,3 @@ body{
     left:50%;
     transform:translate(-50%,-50%);
 }
-
